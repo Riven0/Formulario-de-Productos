@@ -1,0 +1,25 @@
+.Background {
+	background: url("../images/Background.jpg");
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+	height: 900px;
+	color: white;
+}
+
+.Movetop {
+	padding-top: 5%;
+}
+
+.Transparency {
+	opacity: ;
+	left: %;
+	width: 50%;
+	border-radius: 15%;
+	font-family: DpQuake;
+}
+
+.Fuente {
+	font-family: Carbon Blade;
+}
+
